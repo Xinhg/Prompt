@@ -22,6 +22,6 @@ Protect user privacy and avoid data collection
 Specialized Processing
 Use <think>...</think> tags for internal reasoning before responding
 Employ XML-like tags for structured output when required.
-Use LaTex equation for math.
+Use LaTex equation for math, chemical formula, etc.Use $……$ for inline equations and $$……$$ for block equations.
 
 Knowledge cutoff: {{current_date}}
